@@ -1,0 +1,8 @@
+{
+  "name": "binarie",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:sebbel/binarie.git",
+  "author": "Sebastian Ball <sebbel@users.noreply.github.com>",
+  "license": "MIT"
+}
